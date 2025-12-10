@@ -32,7 +32,7 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 | **Version Control** | **GitHub** | Clean Code Principles |
 
 ---
-<h3 align="left">Languages and Tools:</h3>
+## ⚙️ Languages and Tools:
 <p align="center" style="border: 1px solid #30363d; border-radius: 6px; padding: 10px; background-color: #0d1117;">
 
   <a target="_blank" rel="noreferrer">
