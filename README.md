@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Code illustration showing front-end and back-end work" width="300" src="https://github.com/raaakib0/raaakib0/blob/main/18123-developer.gif">
+<img align="right" alt="Code illustration showing front-end and back-end work" width="300" src="https://github.com/raaakib0/raaakib0/blob/main/Developer.gif">
 
 I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in building responsive, scalable, and high-performance web applications. My background includes full-stack development using modern frameworks.
 
