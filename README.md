@@ -38,7 +38,7 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 | **CMS & Tools** | **WordPress (Custom Plugin Dev)**, Vercel, Netlify, VS Code, Postman | |
 | **Version Control** | **GitHub** | Clean Code Principles |
 
----
+<br>
 
 ## 📈 GitHub Metrics & Activity
 
