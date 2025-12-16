@@ -4,6 +4,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind,bootstrap,php,laravel,nodejs,git,github,vscode" alt="Frontend and Core Tools" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,wordpress,figma,postman,netlify,vercel,npm,docker" alt="Databases and CMS Tools" />
+</p>
 
 ## 🚀 About Me
 
@@ -32,91 +39,15 @@ I am a detail-oriented **Junior Web Developer** from Dhaka, specializing in buil
 | **Version Control** | **GitHub** | Clean Code Principles |
 
 ---
-## ⚙️ Languages and Tools:
-<p align="center" style="border: 1px solid #30363d; border-radius: 6px; padding: 10px; background-color: #0d1117;">
-
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="45" height="45"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="45" height="45"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45"/>
-  </a>
-
-  <br/>
-  <br/>
-
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="45" height="45"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="45" height="45"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="45" height="45"/>
-  </a>
-
-  <br/>
-  <br/>
-
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="45" height="45"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="45" height="45"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45"/>
-  </a>
-</p>
-
-
-
-<!-- <h3 align="left">Languages and Tools:</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind,bootstrap,laravel,php,nodejs,mysql,mongodb,wordpress,git,github,vscode,figma" alt="My Tech Stack: React, Vue, JS, HTML, CSS, Tailwind, Bootstrap, Laravel, PHP, Node.js, MySQL, MongoDB, WordPress, Git, GitHub, VSCode, Figma" />
-</p> -->
 
 ## 📈 GitHub Metrics & Activity
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raaakib0&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
-
 <!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raaakib0&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raaakib0&theme=dark&hide_border=true&date_format=j%20M%5BY%5D&locale=en&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF&background=0D1117" alt="GitHub Streak" />
 </p> -->
-
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raaakib0&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raaakib0&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
